@@ -1,0 +1,8 @@
+rootProject.name = 'spring-demo'
+
+include 'spring-mvc-jpa-demo'
+include 'spring-webflux-mongo-demo'
+include 'spring-vaadin-demo'
+include 'spring-webflux-r2dbc-demo'
+include 'spring-mvc-mongo-demo'
+

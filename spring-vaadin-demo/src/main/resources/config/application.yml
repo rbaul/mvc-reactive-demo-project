@@ -1,0 +1,10 @@
+spring:
+
+server:
+  servlet:
+    contextPath: /
+  port: 8085
+
+logging:
+  level:
+    ROOT: info

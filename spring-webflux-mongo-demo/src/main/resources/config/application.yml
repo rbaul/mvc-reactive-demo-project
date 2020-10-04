@@ -1,0 +1,18 @@
+spring:
+
+  data:
+    mongodb:
+      #      database: webflux-mongo
+      #      host: localhost
+      #      port: 27017
+      uri: mongodb://localhost:27017/webflux-mongo
+
+
+server:
+  servlet:
+    contextPath: /
+  port: 8081
+
+logging:
+  level:
+    ROOT: info
